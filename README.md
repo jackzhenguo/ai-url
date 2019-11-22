@@ -17,26 +17,28 @@ more than 100 greatest url for AI study
 
 7. python HOWTOs: https://docs.python.org/3/howto/index.html
 
-8. python quizzes: https://realpython.com/quizzes/
+8. peps: https://www.python.org/dev/peps/
 
-9. python 背景介绍：https://www.cnblogs.com/nickchen121/p/10722729.html
+9. python quizzes: https://realpython.com/quizzes/
 
-   
-
-10. numpy tutorial : https://numpy.org/devdocs/user/quickstart.html
-
-11. 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
-
-12. pandas user guide: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
-
-13. pandas cookbook: https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
-
-14. statsmodels examples: http://www.statsmodels.org/stable/examples/index.html#
-
-15. sklearn user guide: https://scikit-learn.org/stable/user_guide.html
+10. python 背景介绍：https://www.cnblogs.com/nickchen121/p/10722729.html
 
     
 
-16. machine learning blog: https://www.machinelearningplus.com/
+11. numpy tutorial : https://numpy.org/devdocs/user/quickstart.html
+
+12. 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
+13. pandas user guide: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
+
+14. pandas cookbook: https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
+
+15. statsmodels examples: http://www.statsmodels.org/stable/examples/index.html#
+
+16. sklearn user guide: https://scikit-learn.org/stable/user_guide.html
 
     
+
+17. machine learning blog: https://www.machinelearningplus.com/
+
+18. sklearn: https://scikit-learn.org/stable/
