@@ -19,22 +19,24 @@ more than 100 greatest url for AI study
 
 8. python quizzes: https://realpython.com/quizzes/
 
+9. python 背景介绍：https://www.cnblogs.com/nickchen121/p/10722729.html
+
    
 
-9. numpy tutorial : https://numpy.org/devdocs/user/quickstart.html
+10. numpy tutorial : https://numpy.org/devdocs/user/quickstart.html
 
-10. 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+11. 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
-11. pandas user guide: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
+12. pandas user guide: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
 
-12. pandas cookbook: https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
+13. pandas cookbook: https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
 
-13. statsmodels examples: http://www.statsmodels.org/stable/examples/index.html#
+14. statsmodels examples: http://www.statsmodels.org/stable/examples/index.html#
 
-14. sklearn user guide: https://scikit-learn.org/stable/user_guide.html
+15. sklearn user guide: https://scikit-learn.org/stable/user_guide.html
 
     
 
-15. machine learning blog: https://www.machinelearningplus.com/
+16. machine learning blog: https://www.machinelearningplus.com/
 
     
